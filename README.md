@@ -23,7 +23,7 @@
      npm install
      ```
 
-4. **Build the Project:**
+4. **Build the Project: **
    - Execute the following command to build the project:
      ```bash
      npm run build
